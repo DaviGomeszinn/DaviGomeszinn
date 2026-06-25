@@ -5,6 +5,14 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davizinn18&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
+<br>
+
+<p align="center">
+  <a href="https://leetcode.com/u/DaviGomes/">
+    <img src="https://img.shields.io/badge/LeetCode-Perfil-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
 <p align="center">
 💻 Estudante do Ensino Médio Técnico em Manutenção e Suporte em Informática
 </p>
