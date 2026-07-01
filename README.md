@@ -1,12 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o Davi Gomes dos Santos</h1>
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Davizinn18&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davizinn18&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-
-<br>
-
 <p align="center">
   <a href="https://leetcode.com/u/DaviGomes/">
     <img src="https://img.shields.io/badge/LeetCode-Perfil-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
